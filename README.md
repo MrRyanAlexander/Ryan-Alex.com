@@ -1,19 +1,39 @@
-I wanted to start working with the Golang and created this project to test what I learn. 
+In this project you will find a very basic GoApp which I created to share some of my work. The website itself is just a directory with links pointing to source files and live previews. I find it difficult to house and share my work from a visually appealing place because the work I do is in so many different areas that it became impossible to have one website where I could show all of my work. I have seen other developer website and while they are beautiful, they have a sort of bloggy feel to them and I want to avoid that. Since the reason for this site to exist in the first place is just to point other peole to my work and share a little bit about myself, a plain text website is perfect for my needs. It is also very easy to maintain a plain text website, but for regular business this would be very unprofessional. 
 
-The steps I took: 
+I have experience designing and developing webApps and native apps. 
+	- iOS 		
+		* Xcode	
+		* Subclassing
+		* Categories
+		* Casting (I try not to)
+		* Storyboads
+		* I am very familiar with iOS SDK 6.0 - 8.2
 
-- Reuse an existing template site and grunt build file as the "template" for ra.go. 
+	- Android
+		* Android Studio
+		* XML templating
+		* I am more familiar with iOS
 
-- Create a type struct { string } to demonstrate one way to pass data to a template
+	- Backbone.js
+	- Ember.js
+	- html templating 
+	- CSS
+	- Less-Mixins 
 
-- Upload to Go App Engine with the provided SDK
+I have experience using graphics art tools:
+	- Gimp
+	- Photoshop
+	- Blender 
 
-- Demonstrate different versions revised over 24hours
+I have experience using terminal: 
+	- build scripting
+	- command line 
+	- git versioning
+	- emacs/vim
 
-Version 1 : http://1.automatic-bot-91805.appspot.com/</br>
-Version 2 : http://2.automatic-bot-91805.appspot.com/</br>
-Version 3 : http://3.automatic-bot-91805.appspot.com/</br>
-Version 4 : http://4.automatic-bot-91805.appspot.com/</br>
-Version 5 : http://5.automatic-bot-91805.appspot.com/</br>
-
-The Golang was very easy to get started working with. As you can see from the demonstrations above, I was quickly able to convert an existing website into a Go template that displays data. 
+I have experience with Cloud Services:
+	- AWS
+	- Google App Engine
+	- Parse
+	- Heroku
+	- and can deploy in any other platform overnight. 
